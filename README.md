@@ -33,7 +33,7 @@ Dieses Python-Projekt bietet eine einfache Möglichkeit, Dateien zu verschlüsse
 
 ## Nutzung
 
-Das Programm bietet die Möglichkeit, Dateien zu verschlüsseln und zu entschlüsseln.
+Das Programm bietet die Möglichkeit, Dateien zu verschlüsseln und Testdateien zu erstellen.
 
 ### Datei verschlüsseln
 ```bash
