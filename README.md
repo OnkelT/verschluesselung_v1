@@ -48,7 +48,8 @@ py erstelle_dateien.py
 ## Features
 - Einfache Dateiverschlüsselung mit Python
 - Nutzung einer sicheren symmetrischen Verschlüsselung
-- Befehlsgesteuerte Nutzung für einfache Automatisierung
+- Erstellen von Testdateien
+- Erstellung eines .csv fur Bitwarden-Import
 
 ## Lizenz
 Dieses Projekt ist unlizensiert.
