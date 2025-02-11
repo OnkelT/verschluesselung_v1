@@ -2,7 +2,7 @@
 
 ## Über das Projekt
 
-Dieses Python-Projekt bietet eine einfache Möglichkeit, Dateien zu verschlüsseln und zu entschlüsseln. Es basiert auf einer symmetrischen Verschlüsselungsmethode, um sensible Daten sicher zu speichern oder zu übertragen.
+Dieses Python-Projekt bietet eine einfache Möglichkeit, Dateien zu verschlüsseln und zu Testdateien zu erstellen. Es basiert auf einer symmetrischen Verschlüsselungsmethode, um sensible Daten sicher zu speichern oder zu übertragen.
 
 ## Installation
 
