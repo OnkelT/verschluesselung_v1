@@ -37,13 +37,13 @@ Das Programm bietet die Möglichkeit, Dateien zu verschlüsseln und zu entschlü
 
 ### Datei verschlüsseln
 ```bash
-python encrypt.py -i <input_datei> -o <output_datei>
+py verschluesselung.py
+```
+### Testdateien erstellen
+```bash
+py erstelle_dateien.py
 ```
 
-### Datei entschlüsseln
-```bash
-python decrypt.py -i <input_datei> -o <output_datei>
-```
 
 ## Features
 - Einfache Dateiverschlüsselung mit Python
