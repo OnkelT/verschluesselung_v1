@@ -57,5 +57,5 @@ Dieses Projekt ist unlizensiert.
 ## Autor
 Erstellt von [OnkelT](https://github.com/OnkelT).
 
-*Dieser Text ist KI-Generiert
+*Dieser Text ist KI-Generiert und von einem Menschen berarbeitet worden ;) 
 
