@@ -17,13 +17,15 @@ Dieses Python-Projekt bietet eine einfache Möglichkeit, Dateien zu verschlüsse
    git clone https://github.com/OnkelT/verschluesselung_v1.git
    cd verschluesselung_v1
    ```
-2. Aktiviere die virtuelle Umgebung:
+2. Erstelle/ Aktiviere die virtuelle Umgebung:
    - Windows:
      ```bash
+     python -m venv venv
      venv\Scripts\activate
      ```
    - macOS/Linux:
      ```bash
+     python -m venv venv
      source venv/bin/activate
      ```
 3. Installiere die erforderlichen Pakete:
